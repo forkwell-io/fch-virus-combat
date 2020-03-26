@@ -2,17 +2,20 @@
 
 [Fork](https://guides.github.com/activities/forking/) this repository to start participating!
 
+[![](https://img.shields.io/discord/692562848437764096.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/jFjbXqp)
+
 ## About
 
 Welcome to [Forkwell Coronavirus Hack](https://www.forkwell.io/events/forkwell-coronavirus-hack)!
 
 This repository contains the hackathon kit for you to get started on solving **Topic 2: Virus
 Combat** and (eventually) all of your submissions.
+
 ## Sponsors
 
 | [![Microsoft](https://user-images.githubusercontent.com/19421765/77505763-ff940400-6e9e-11ea-8c47-cafdf6b3b2d6.png)](https://microsoft.com/) | [![DigitalOcean](https://user-images.githubusercontent.com/19421765/77505756-f9058c80-6e9e-11ea-9968-01fcd23a3e6f.png)](https://do.co/forkwell) | [![Sunway iLabs](https://user-images.githubusercontent.com/19421765/77505745-f440d880-6e9e-11ea-99c8-087a37b9cd5b.png)](https://innovationlabs.sunway.edu.my/) |
 |----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [![Runcloud](https://user-images.githubusercontent.com/19421765/77505775-06bb1200-6e9f-11ea-8c30-ae3547432a69.png)](https://runcloud.io/)    | [![AI Geeks](https://user-images.githubusercontent.com/19421765/77505782-0a4e9900-6e9f-11ea-9b68-e54697881f64.png)](http://aigeeks.org/)        |                                                                                                                                                                |
+| [![Runcloud](https://user-images.githubusercontent.com/19421765/77505775-06bb1200-6e9f-11ea-8c30-ae3547432a69.png)](https://runcloud.io/)    | [![AI Geeks](https://user-images.githubusercontent.com/19421765/77505782-0a4e9900-6e9f-11ea-9b68-e54697881f64.png)](http://aigeeks.org/)         |                                                                                                                                                                |
 
 ## Background
 
@@ -102,6 +105,6 @@ Feel free to open issues if you find anything lacking and we appreciate your fee
 ## Community
 
 Join the community!
-- [Forkwell Facebook Group](https://facebook.com/groups/forkwell.io)
-- [Forkwell Coronavirus Hack Slack Channel](https://slack-invite)
+- [Discord](https://discord.gg/jFjbXqp)
+- [Forkwell Facebook Group](https://facebook.com/groups/forkwellcoronavirushack/)
 
