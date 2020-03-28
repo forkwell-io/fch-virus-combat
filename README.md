@@ -94,9 +94,11 @@ internet to use. Please ensure that you don't commit any sensitive information!
 
 ### APIs
 
-| Name              | Link                          |
-|-------------------|-------------------------------|
-| CoronaTracker API | https://api.coronatracker.com |
+| Name                 | Link                                                                                                    |
+|----------------------|---------------------------------------------------------------------------------------------------------|
+| CoronaTracker API    | https://api.coronatracker.com                                                                           |
+| COVID-19 Postman API | https://covid-19-apis.postman.com/                                                                      |
+| COVID-19 Rapid API   | https://rapidapi.com/api-sports/api/covid-193?endpoint=apiendpoint_dfb9e52d-bd90-48ec-a571-8b78610a736d |
 
 ### Tools
 
