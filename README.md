@@ -113,6 +113,9 @@ internet to use. Please ensure that you don't commit any sensitive information!
 Deployment
 - [DigitalOcean](https://do.co/forkwell)
 
+E-learning
+- [Microsoft Learn](https://aka.ms/learn)
+
 ## Help us organize better
 
 Feel free to open issues if you find anything lacking and we appreciate your feedback greatly!
